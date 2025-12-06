@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bienvenidos al universo LuMoMakers 👋
 
 <!--
 **lumomakers/lumomakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
