@@ -1,5 +1,7 @@
 ## Bienvenidos al universo LuMoMakers 👋
 
+En este lugar encontrarás diferentes proyectos hechos por alumnos del IES Luis de Morales que participaron o participan en eventos como RoboReto y CanSat.
+
 <!--
 **lumomakers/lumomakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
