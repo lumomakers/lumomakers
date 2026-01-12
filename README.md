@@ -1,5 +1,6 @@
 ## Bienvenidos LuMoMakers 👋
 ![Texto alternativo](https://github.com/lumomakers/lumomakers/blob/main/imgs/Banner.png)
+
 En este lugar encontrarás diferentes proyectos hechos por alumnos del IES Luis de Morales que participaron o participan en eventos como RoboReto y CanSat.
 
 <!--
